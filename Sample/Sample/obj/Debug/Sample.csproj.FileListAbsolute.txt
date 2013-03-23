@@ -2,3 +2,4 @@ C:\Dev\GitHub\Sample\Sample\Sample\bin\Debug\Sample.dll
 C:\Dev\GitHub\Sample\Sample\Sample\bin\Debug\Sample.pdb
 C:\Dev\GitHub\Sample\Sample\Sample\obj\Debug\Sample.dll
 C:\Dev\GitHub\Sample\Sample\Sample\obj\Debug\Sample.pdb
+C:\Dev\GitHub\Sample\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache

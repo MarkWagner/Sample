@@ -1,13 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <!-- Parent ContentType: Document (0x0101) -->
-  <ContentType ID="0x010100F25913D3E7A64742BDAC6719F1D6EF6A"
-               Name="ContentType1"
-               Group="Custom Content Types"
-               Description="My Content Type"
-               Inherits="TRUE"
-               Version="0">
-    <FieldRefs>
-    </FieldRefs>
+  <ContentType ID="0x010100F25913D3E7A64742BDAC6719F1D6EF6A" Name="Sample Document" Group="Wagner Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs></FieldRefs>
   </ContentType>
 </Elements>
